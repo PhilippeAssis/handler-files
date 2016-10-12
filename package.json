@@ -1,0 +1,40 @@
+{
+  "name": "handler-files",
+  "version": "0.0.1",
+  "description": "Collection of libraries and shortcuts for local file handling and carrecados with express.js (multer)",
+  "main": "index.js",
+  "dependencies": {
+    "file-exists": "^2.0.0",
+    "merge": "^1.2.0",
+    "multer": "^1.2.0"
+  },
+  "devDependencies": {
+    "express": "^4.14.0"
+  },
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhilippeAssis/handler-files.git"
+  },
+  "keywords": [
+    "files",
+    "manager",
+    "files",
+    "manager",
+    "handler",
+    "express",
+    "multer",
+    "upload",
+    "move",
+    "rename"
+  ],
+  "author": "Philippe Assis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhilippeAssis/handler-files/issues"
+  },
+  "homepage": "https://github.com/PhilippeAssis/handler-files#readme"
+}
